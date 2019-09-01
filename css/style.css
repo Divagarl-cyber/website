@@ -808,3 +808,24 @@ header {
 }
 
 /* end of section5 */
+
+
+/*section 1 (navbar and header)*/
+#logo{
+        width:20%;
+        height:20%;
+    }
+    
+    #li{
+        font-size:20px;
+    }
+     span{
+      color:#f0981d;
+    }
+#donateBtn{
+  font-size:15px;
+  background-color:#f0981d;
+  border-color:#f0981d;
+  width:150%;
+  border-radius:40px;
+         }
